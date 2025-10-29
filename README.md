@@ -3,7 +3,7 @@ Gravity is a 2d gravity simulation/sandbox made using the p5.js library in Javas
 <h2>(This project was written 4 years ago ago but just recently have I finally uploaded it.)
   [Please note that some of the math and collision detection for the project is off, also some of the code is a bit messy... given it was made some time ago]</h2>
 
-![GRAVITY](5.gif)
+![GRAVITY](/READMEIMAGES/5.gif)
 
 <h2>How to use:</h2>
 
